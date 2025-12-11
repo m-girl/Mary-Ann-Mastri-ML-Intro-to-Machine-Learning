@@ -19,4 +19,4 @@ I am interested in exploring how machine learning can be applied to solve real-w
 ## How to Run the Code
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/FirstName-LastName-ML-Course.git
+   git clone https://github.com/m-girl/Mary-Ann-Mastri-ML-Intro-to-Machine-Learning.git
