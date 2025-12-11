@@ -12,11 +12,10 @@ I am interested in exploring how machine learning can be applied to solve real-w
 - **Assignments/** → Larger projects and problem-solving tasks.
 
 ## Completed Work
-- Lab 1: [Short description]
-- Lab 2: [Short description]
-- Assignment 1: [Short description]
-- Assignment 2: [Short description]
-
+- Lab 1: [L03_Mary_Ann_Mastri_ITAI1371.ipynb]
+- Lab 2: [Lab_10_Mary_Ann_Mastri_ITAI_1371_Mod_1_10_titanic_ml_lab.ipynb]
+- Assignment 1: [A01 My first github repository link and photo.docx]
+- Assignment 2: [A02 Google colab EDA.docx]
 ## How to Run the Code
 1. Clone the repository:
    ```bash
